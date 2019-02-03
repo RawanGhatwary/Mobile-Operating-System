@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Operating Systems</string>
+    <string name="Login">Login</string>
+    <string name="Email">email</string>
+    <string name="Password">password</string>
+    <string name="Mobiles">Mobile Operating Systems</string>
+</resources>
